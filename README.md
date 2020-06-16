@@ -15,3 +15,9 @@ Tipos de parâmetros:
 Query Params: Filtros e paginação;
 Route Params: Identificar recursos (Atualizar/Deletar);
 Request Body: Requisição de conteúdo na hora de criar ou editar um recurso (JSON);
+
+
+
+Middlewares:
+
+Interceptador de requisições que pode interromper totalmente a requisição ou alterar dados da requisição.
